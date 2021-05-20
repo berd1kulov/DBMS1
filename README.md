@@ -1,2 +1,2 @@
-# DBMS1
-DBMS1
+# Admin panel with main controllers
+JavaFX and MSSQL
